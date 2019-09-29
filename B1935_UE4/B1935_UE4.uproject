@@ -1,6 +1,21 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{00039783-2407-1016-0015-01EB688A7FA7}",
+	"EngineAssociation": "{ECFC9AE6-4B6C-CF28-BE4E-58B855B91B22}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"WindowsNoEditor",
+		"Android"
+	]
 }

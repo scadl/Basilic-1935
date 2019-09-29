@@ -1,3 +1,0 @@
-depth: 0.15m = 15cm
-border: 0.1m = 10cm
-window_depth: 0.07 = 7cm
