@@ -1,0 +1,196 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.01.2013 17:53:10
+
+newmtl 02___Default56
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.984314 0.945098 0.768628
+	Kd 0.984314 0.945098 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Material__11
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-capitel.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-capitel.png
+
+newmtl 02___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Material__0
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-connect-frag.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-connect-frag.png
+
+newmtl wall_steps
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-steps-soliya.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-steps-soliya.png
+
+newmtl wall_solya
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-soliya.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-soliya.png
+
+newmtl wall_altar
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-altar.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-altar.png
+
+newmtl wall_arc
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-arc.png
+
+newmtl wall_column
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Kd C:\Program Files (x86)\Autodesk\3ds Max Design 2010\maps\ArchMat\Masonry.Stone.Marble.Square.Stacked.Polished.White-Brown-Black.jpg
+
+newmtl wall_architrav_l
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-architrav.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-architrav.png
+
+newmtl wall_architrav_r
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.729412 0.760784 0.768628
+	Kd 0.729412 0.760784 0.768628
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-architrav.png
+	map_Kd C:\[Works]\[3D Modeling]\Basilic by 1935 (3D)\3Ds Project\wall-architrav.png
+
+newmtl 02___Default3
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.592157 0.474510 0.368627
+	Kd 0.592157 0.474510 0.368627
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl wire_188188188
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.737255 0.737255 0.737255
+	Kd 0.737255 0.737255 0.737255
+	Ks 0.350000 0.350000 0.350000
+
+newmtl 02___Default567
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.576471 0.439216 0.141176
+	Kd 0.576471 0.439216 0.141176
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl 02___Default45
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.701961 0.701961 0.682353
+	Kd 0.701961 0.701961 0.682353
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000

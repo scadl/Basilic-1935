@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{ECFC9AE6-4B6C-CF28-BE4E-58B855B91B22}",
-	"Category": "",
+	"EngineAssociation": "4.25",
+	"Category": "ArchiVIS",
 	"Description": "",
 	"Plugins": [
 		{
@@ -9,7 +9,16 @@
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win32",
-				"Win64"
+				"Win64",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "WindowsMixedReality",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens"
 			]
 		}
 	],
